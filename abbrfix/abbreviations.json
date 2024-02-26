@@ -59,7 +59,7 @@
     "tmi": "too much information",
     "ttyl": "talk to you later",
     "ty": "thank you",
-    "wtf": "what the fuck?",
+    "wtf": "what the fuck",
     "wyd": "what are you doing",
     "yolo": "you only live once",
     "yw": "you're welcome",
@@ -70,5 +70,6 @@
     "smfh": "shaking my fucking head",
     "sus": "suspicious",
     "tldr": "too long didn't read",
-    "l8r": "later"
+    "l8r": "later",
+    "fyi": "for your information"
 }
